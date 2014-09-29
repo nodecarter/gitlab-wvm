@@ -1,2 +1,4 @@
 .gemrc
 .vagrant
+/gitlab/
+/gitlab-shell/
