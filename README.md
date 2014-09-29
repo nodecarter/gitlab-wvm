@@ -1,3 +1,6 @@
+###Attention
+Tested on ansible 1.7.0
+
 - Install ansible (with galaxy) on host machine
 - Clone repo
 - DOIT:
