@@ -2,3 +2,5 @@
 .vagrant
 /gitlab/
 /gitlab-shell/
+/provisioning/roles/*
+!/provisioning/roles/.keep
